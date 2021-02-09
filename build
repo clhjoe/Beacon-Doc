@@ -1,1 +1,1 @@
-apidoc -i . -o doc/
+apidoc -i . -o docs/
