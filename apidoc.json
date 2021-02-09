@@ -1,0 +1,21 @@
+{
+    "name": "beacon-server",
+    "version": "0.1.0",
+    "description": "API document of beacon-server project",
+    "title": "Beacon Server API Document",
+    "url": "https://api.github.com/v1",
+    "header": {
+      "title": "Beacon Server API Document"
+    },
+    "footer": {
+      "title": "My own footer title"     
+    },
+    "order": [
+      "GetUser",
+      "PostUser"
+    ],
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+  }
